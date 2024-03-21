@@ -1,4 +1,4 @@
-# 🎈 Streamlit + LLM Examples App
+# ChatWithDocs
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)
 
@@ -48,4 +48,3 @@ source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run Chatbot.py
 ```
-# ChatWithDocs
